@@ -1,0 +1,14 @@
+COHERE_MODEL = "command-r-plus"
+
+COLLECTION_NAME = "DSPY"
+CHROMA_DATA_PATH = "Data"
+
+THE_NUMBER_OF_DOCUMENTS_TO_FETCH = 5
+CHUNK_SIZE = 2200
+OVERLAP = 200
+
+KNOWLEDGE_BASE_PATH = "src/knowledge_base"
+
+
+TRAIN_SIZE = 0.8
+CSV_SET_PATH = "src/train_test_data/mix.csv"
