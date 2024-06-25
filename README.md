@@ -10,6 +10,9 @@
 ```
 
 
+![1707471817175](https://github.com/Kirouane-Ayoub/RAGnetic/assets/99510125/e8b24a4d-9b35-4d0a-aecd-9def301e4d04)
+
+
 ## Overview
 This project implements a **Retrieval-Augmented Generation (RAG) system** using **DSPy**. **RAG** allows **Language Models (LLMs)** to leverage a large corpus of knowledge to dynamically retrieve relevant passages and generate well-refined responses. **DSPy** facilitates the setup of **RAG pipelines** by providing tools for optimizing prompts and managing the flow of information between retrieval and generation stages.
 
