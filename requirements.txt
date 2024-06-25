@@ -1,0 +1,5 @@
+chromadb
+dspy-ai 
+cohere 
+dspy-ai[chromadb] 
+PyPDF2
